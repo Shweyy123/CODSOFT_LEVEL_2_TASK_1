@@ -1,14 +1,14 @@
 # CODSOFT_LEVEL_2_TASK_1
-Tribute Page
+Tribute Page - 
 This project is a simple tribute page built using HTML and CSS.
 
-Installation
+Installation :
 Clone the repository:
 git clone https://github.com/yourusername/tribute-page.git
 
-Usage
+Usage :
 Open the index.html file in your web browser to view the tribute page.
 
-Technologies
-HTML5
-CSS3
+Technologies:
+HTML5,
+CSS3.
